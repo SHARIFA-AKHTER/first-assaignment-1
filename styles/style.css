@@ -349,7 +349,7 @@ margin-top: 50px;
   margin-left: 20px;
 }
 
-.last-tag{
+.last-tip{
   display: flex;
   justify-content: space-between;
   color: #0D1321;
@@ -357,7 +357,7 @@ margin-top: 50px;
   opacity: 60%;
 }
 
-.last-tag h5{
+.last-tip h5{
   margin-left: 10%;
   margin-top: 20px;
 }
