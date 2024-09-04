@@ -348,3 +348,21 @@ margin-top: 50px;
   padding: 5px;
   margin-left: 20px;
 }
+
+.last-tag{
+  display: flex;
+  justify-content: space-between;
+  color: #0D1321;
+  background-color: #EBF2FF;
+  opacity: 60%;
+}
+
+.last-tag h5{
+  margin-left: 10%;
+  margin-top: 20px;
+}
+
+.social-links{
+  margin-right: 10%;
+  margin-top: 20px;
+}
